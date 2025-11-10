@@ -1,3 +1,4 @@
+# taking input from user
 n=int(input())
 li=[1,1]
 for i in range(n):
@@ -6,5 +7,6 @@ for i in range(n):
         li.append(s)
 
 print("Fibonacci Series:" ,li[n-1])
+
 
 
