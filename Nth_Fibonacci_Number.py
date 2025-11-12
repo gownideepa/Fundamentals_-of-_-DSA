@@ -6,7 +6,8 @@ for i in range(n):
         s=li[i-1]+li[i-2]
         li.append(s)
 
-print("Fibonacci Series:" ,li[n-1])
+print("Fibonacci Series:" ,li[n-1]) # printing output on console
+
 
 
 
