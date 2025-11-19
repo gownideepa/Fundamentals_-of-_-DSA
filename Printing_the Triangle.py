@@ -1,1 +1,2 @@
-# program to print triangle 
+#  program to print triangle 
+
